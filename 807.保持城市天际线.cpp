@@ -3,7 +3,7 @@
  *
  * [807] 保持城市天际线
  */
-#include <vector>
+#include<vector>
 using namespace std;
 // @lc code=start
 class Solution {
@@ -36,3 +36,4 @@ public:
   }
 };
 // @lc code=end
+
